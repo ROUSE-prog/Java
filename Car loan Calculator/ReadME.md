@@ -1,0 +1,4 @@
+The program is a simple Java Car Loan Payment Calculator that calculates the monthly payment for a car loan based on the loan amount, loan length, interest rate, and down payment provided by the user.
+First, it sets some initial variables for the car loan, loan length, interest rate, and down payment. Then, it checks if the loan length and interest rate are greater than zero, and if the down payment is less than the car loan, in order to ensure that the loan parameters are valid.
+If the parameters are valid, the program calculates the remaining balance on the loan after the down payment, the number of months in the loan term, the monthly balance, the monthly interest rate, the interest owed each month, and finally, the monthly payment required to pay off the loan.
+Finally, if the loan parameters are valid, the program prints out the calculated monthly payment for the user to see.
